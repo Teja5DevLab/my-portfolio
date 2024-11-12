@@ -1,6 +1,6 @@
 import React from "react";
 import tejas from "../assets/tejas.jpg";
-import resume from "../assets/My Resume .pdf";
+import resume from "../assets/My Resume.pdf";
 import { TypeAnimation } from "react-type-animation";
 import ShinyEffect from "./ShinyEffect";
 import {
